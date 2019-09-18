@@ -4,9 +4,9 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, '8.0'
   spec.license      = 'MIT'
   spec.summary      = 'A sdk for cocopods'
-  spec.homepage     = 'https://github.com/ChristianAndersen/CSCocoapodsDemo'
+  spec.homepage     = 'https://github.com/ChristianAndersen/DJSDKCocoapods'
   spec.author       = { 'ChristianAndersen' => '1476756749@qq.com' }
-  spec.source       = { :git => 'https://github.com/ChristianAndersen/CSCocoapodsDemo.git', :tag => spec.version }
+  spec.source       = { :git => 'https://github.com/ChristianAndersen/DJSDKCocoapods.git', :tag => spec.version }
   spec.social_media_url   = "https://www.jianshu.com/u/276c4f13c37b"
   spec.requires_arc = true
 
